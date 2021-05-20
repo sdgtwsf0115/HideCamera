@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff">
+    <SurfaceView
+        android:id="@+id/sview"
+        android:layout_width="1px"
+        android:layout_height="1px"/>
+
+    <ImageView
+        android:layout_margin="5dp"
+        android:id="@+id/button"
+        android:layout_centerInParent="true"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:background="@mipmap/ic_launcher_round"/>
+</RelativeLayout>
