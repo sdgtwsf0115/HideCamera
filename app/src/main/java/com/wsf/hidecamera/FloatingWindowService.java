@@ -22,7 +22,6 @@ import android.widget.Toast;
 import androidx.annotation.Nullable;
 
 /**
- * @Author BLCS
  * @Time 2020/4/6 18:33
  */
 public class FloatingWindowService extends Service {
